@@ -1,0 +1,2 @@
+# No pip packages required. Uses the Python 3.10+ standard library.
+# Install Ollama separately: https://ollama.com/download
